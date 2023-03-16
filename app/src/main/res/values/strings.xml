@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WIT CANTEEN</string>
+    <string name="tea">Tea - 10Rs</string>
+    <string name="coffee">Coffee - 20Rs</string>
+    <string name="milk">Milk - 25Rs</string>
+    <string name="pepsi">Pepsi - 30Rs</string>
+</resources>
